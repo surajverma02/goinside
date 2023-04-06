@@ -10,7 +10,7 @@
     height: 100vh;
     margin: 0;
     border: none;
-    background-image: url("/images/back3.jpg");
+    background-image: url("images/back3.jpg");
     opacity: 0.9;
     background-repeat: no-repeat;
     background-size: cover;
@@ -162,7 +162,7 @@ button{
     margin-top: 2vh;
     width: 212vh;
     height: 100vh;
-    background: url("/images/back2.jpg");
+    background: url("images/back2.jpg");
     background-size: cover;
     padding: 20vh 15% 20vh 15%;
 
